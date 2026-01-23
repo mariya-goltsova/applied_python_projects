@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# Переменные окружения
+.env
+
+# Git
+.git
+.gitignore
